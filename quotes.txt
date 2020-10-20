@@ -10,5 +10,6 @@ Encourage flow
 Non-blocking is better than blocking
 Favor focus over features
 Avoid administrative distraction
+The dog barks,  the caravan goes on
 Design for failure
 Keep it logically awesome
